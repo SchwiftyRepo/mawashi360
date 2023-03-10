@@ -1,0 +1,397 @@
+{
+    "items": [
+   {
+            "type": "item",
+            "title": "Action Sports 4U",
+            "link": "https://broadcast.mytvtogo.net/actionsports4you/actionsports4you/playlist.m3u8"
+        },
+		{
+            "type": "item",
+            "title": "All Sports",
+            "link": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8"
+        },
+		{
+            "type": "item",
+            "title": "ACC Network",
+            "link": "https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8"
+        },
+		{
+            "type": "item",
+            "title": "AutoMoto TV",
+            "link": "https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "BEK TV Sports West",
+            "link": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8"
+        },
+		{
+            "type": "item",
+            "title": "Choppertown",
+            "link": "https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Darcizzle Offshore",
+            "link": "http://30a-tv.com/darcizzle.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Edge Sports",
+            "link": "https://edgesport-samsunguk.amagi.tv/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Epic M",
+            "link": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Fat Guys in the Woods",
+            "link": "https://linear-119.frequency.stream/dist/localnow/119/hls/master/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Fight",
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=726&deviceId=5812b0f2237a6ff45d16c3f9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com"
+        },
+        {
+            "type": "item",
+            "title": "Fight Network",
+            "link": "https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Fight Sports",
+            "link": "https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Fite",
+            "link": "https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "FOX Sports",
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com"
+        },
+        {
+            "type": "item",
+            "title": "FTF",
+            "link": "https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Fuel TV",
+            "link": "http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Full Custom Garage",
+            "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e78faa05a0e200007a6f487/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+        },
+        {
+            "type": "item",
+            "title": "Glewed TV",
+            "link": "https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Glory Kickboxing",
+            "link": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows"
+        },
+        {
+            "type": "item",
+            "title": "Hard Knocks",
+            "link": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Highway Thru Hell",
+            "link": "https://linear-120.frequency.stream/dist/localnow/120/hls/master/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Horse & Country",
+            "link": "https://hncfree-vizio.amagi.tv/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Impact Wrestling",
+            "link": "https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "MavTV",
+            "link": "https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "MavTV Select",
+            "link": "https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "MLS",
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true"
+        },
+        {
+            "type": "item",
+            "title": "MMA Junkie",
+            "link": "https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Motor",
+            "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0510962948d000961d3c6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+        },
+        {
+            "type": "item",
+            "title": "NFL Channel",
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com"
+        },
+        {
+            "type": "item",
+            "title": "Nitro Circus",
+            "link": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows"
+        },
+        {
+            "type": "item",
+            "title": "Outdoor America",
+            "link": "https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Outside TV",
+            "link": "https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Pac 12 Insider",
+            "link": "https://pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "PGA Tour",
+            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId="
+        },
+        {
+            "type": "item",
+            "title": "PursuitUp",
+            "link": "https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Racing Post",
+            "link": "https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Recoil TV",
+            "link": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7dff0f932c8368bdbfd5fd/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Red Bull TV",
+            "link": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Rev'n",
+            "link": "https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Ski TV",
+            "link": "https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Spike Outdoors",
+            "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+        },
+        {
+            "type": "item",
+            "title": "Sportskool",
+            "link": "https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Sports Grid",
+            "link": "https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Sports Tonight",
+            "link": "http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Stadium",
+            "link": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Tennis Channel",
+            "link": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "The Boat Show",
+            "link": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips"
+        },
+        {
+            "type": "item",
+            "title": "TVS Boxing",
+            "link": "https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "TVS Classic Sports",
+            "link": "http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "TVS Sports",
+            "link": "https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "TVS Sports Bureau",
+            "link": "https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "TVS Tavern",
+            "link": "https://rpn1.bozztv.com/36bay2/gusa-tavern/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "TVS Turbo",
+            "link": "https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "TVS Women Sports",
+            "link": "https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "VSiN",
+            "link": "https://stream.rcncdn.com/live/vsinproxy.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Waypoint",
+            "link": "https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Whistle TV",
+            "link": "https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "World Poker Tour",
+            "link": "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "[COLORlime]Non-English Audio Below[/COLOR]",
+            "link": "https://"
+        },
+        {
+            "type": "item",
+            "title": "Abu Dhabi Sports 1",
+            "link": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Abu Dhabi Sports 2",
+            "link": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Alfa Sport",
+            "link": "https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu"
+        },
+        {
+            "type": "item",
+            "title": "All Sports",
+            "link": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "ATG",
+            "link": "https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Bahrain Sports 1",
+            "link": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Bahrain Sports 2",
+            "link": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Best Cable Sports Peru",
+            "link": "https://ca2.inka.net.pe/bestcablesports/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Canal Motor",
+            "link": "http://digicom.hls.iptvdc.com/canalmotor/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Contacto Deportivo",
+            "link": "https://live.obslivestream.com/cdeportivo/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "DeporTV",
+            "link": "https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Deporte Total Play",
+            "link": "https://tv.portalexpress.es:3044/live/dtplaylive.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Dubai Racing 1",
+            "link": "https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Dubai Racing 2",
+            "link": "https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Dubai Racing 3",
+            "link": "https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Dubai Sports 1",
+            "link": "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Dubai Sports 2",
+            "link": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Dubai Sports 3",
+            "link": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8"
+        }
+       
+        
+    ]
+    
+}
