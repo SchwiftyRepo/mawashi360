@@ -1,4 +1,4 @@
-{
+  {
     "items": [
    {
             "type": "item",
@@ -122,6 +122,11 @@
         },
         {
             "type": "item",
+            "title": "Lax Sports Network TV",
+            "link": "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8"
+        },
+        {
+            "type": "item",
             "title": "MavTV",
             "link": "https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8"
         },
@@ -132,13 +137,23 @@
         },
         {
             "type": "item",
-            "title": "MLS",
-            "link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true"
+            "title": "Mav TV Motorsports Network 1",
+            "link": "https://mavtv-mavtvglobal-1-ie.samsung.wurl.tv/playlist.m3u8"
         },
         {
             "type": "item",
-            "title": "MMA Junkie",
-            "link": "https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8"
+            "title": "Mav TV Motorsports Network 2",
+            "link": "https://mavtv-mavtvglobal-1-nl.samsung.wurl.tv/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Mav TV Motorsports Network 3",
+            "link": "https://mavtv-mavtvglobal-1-nz.samsung.wurl.tv/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Mav TV Motorsports Network 4",
+            "link": "https://mavtv-mavtvglobal-1-se.samsung.wurl.tv/playlist.m3u8"
         },
         {
             "type": "item",
@@ -372,7 +387,7 @@
         },
         {
             "type": "item",
-            "title": "Dubai Racing 3",
+            "title": "Dubai Racing 3 4K",
             "link": "https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8"
         },
         {
@@ -389,7 +404,104 @@
             "type": "item",
             "title": "Dubai Sports 3",
             "link": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Esports Max",
+            "link": "http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "eSports Network",
+            "link": "https://eyeonesports.com/ES2RA-628g.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "FTV",
+            "link": "https://master.tucableip.com/ftv/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Fubo Sports Network",
+            "link": "https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "J Sports 1",
+            "link": "http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "J Sports 2",
+            "link": "http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "J Sports 3",
+            "link": "http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "J Sports 4",
+            "link": "http://cdnv148.cloudrsst.com:1935/jptv/jsports1_720/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "KBP Sports",
+            "link": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "MNB Sport",
+            "link": "https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Monterrico TV",
+            "link": "https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "More Than Sports TV",
+            "link": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "One Golf",
+            "link": "http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Ovacion TV",
+            "link": "http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "San Marino RTV Sport",
+            "link": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Sport En France",
+            "link": "https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Sport Vision",
+            "link": "https://5fa5de1a545ae.streamlock.net/sportvision35tv/sportvision35tv/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Sports Italia",
+            "link": "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Sports TV Plus",
+            "link": "https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8"
         }
+        
+        
        
         
     ]
