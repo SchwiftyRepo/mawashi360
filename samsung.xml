@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/us.xml.gz"
 #EXTINF:-1 group-title="Plex" tvg-id="bc43b9" tvg-logo="https://i.imgur.com/FiTdDp1.png" tvg-name="24_Hour_Free_Movies",24 Hour Free Movies
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
+#EXTINF:-1 group-title="Plex" tvg-id="bc43b9" tvg-logo="https://i.imgur.com/FiTdDp1.png" tvg-name="GB News",GB News
+https://live-gbnews-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live/live.m3u8
 #EXTINF:-1 tvg-id="USBA3000042O6" tvg-chno="1000" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/50/USBA3000042O6_20210525T051452.png" group-title="Reality",Kitchen Nightmares
 https://d12hafsmzbqmzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/KitchenNightmare2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="USAJ30000100K" tvg-chno="1001" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/20/USAJ30000100K_20210428T104242.png" group-title="Entertainment",The Walking Dead Universe
