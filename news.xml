@@ -1,18 +1,22 @@
+<item>
+<title>GB News UK</title>
+<link>https://live-gbnews-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live/live.m3u8</link>
+</item>
 
-  <item>
-    <title>GB News UK</title>
-    <link>https://live-gbnews-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live/live.m3u8</link>
-  </item>
-  <item>
-    
-    <title>Talk TV UK</title>
-    <link>https://newsuk-talkradiotv-brightcove.amagi.tv/playlist.m3u8</link>
-  </item>
-  <item>
-    
-    <title>Sky News UK</title>
-    <link>https://www.youtube.com/watch?v=9Auq9mYxFEE</link>
-  </item>
+<item>
+<title>Talk TV UK</title>
+<link>https://newsuk-talkradiotv-brightcove.amagi.tv/playlist.m3u8</link>
+</item>
+
+<item>
+<title>Sky News UK</title>
+<link>https://www.youtube.com/watch?v=9Auq9mYxFEE</link>
+</item>
+
+<item>
+<title>CBS News</title>
+<link>http://bitly.ws/CARq</link>
+</item>
   <item>
     
     <title>Fox 4 Morning News</title>
