@@ -1,0 +1,13 @@
+<plugin>
+<name>Test2</name>
+<link>plugin://plugin.video.bolt/?mode=menu&serv_type=live_tv</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
+<plugin>
+<name>Test2</name>
+<link>plugin://plugin.video.bolt/?mode=play&;url=https%3A%2F%2Fdaddylivehd.sx%2F%2Fstream%2Fstream-31.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
